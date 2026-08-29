@@ -9,5 +9,7 @@ public class BhubharathiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BhubharathiApplication.class, args);
 	}
+	
+	 // BhuBharathi application entry point
 
 }
