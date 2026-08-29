@@ -1,12 +1,14 @@
 package com.bhubharathi.controller;
 
 import org.springframework.http.HttpStatus;
+
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import com.bhubharathi.entity.PropertyDetails;
 import com.bhubharathi.service.PropertyDetailsService;
 
+//Property boundaries feature development
 @RestController
 @RequestMapping("/api/sale-deed")
 public class PropertyDetailsController {
